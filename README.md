@@ -13,7 +13,7 @@ This backend handles the core functionality for the Nora AI Marketplace, facilit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nora AI/marketplace-backend.git
+   git clone https://github.com/Nora-AI/marketplace-backend.git
    cd marketplace-backend
    ```
 
