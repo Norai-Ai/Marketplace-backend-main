@@ -1,5 +1,5 @@
 /**
- * NuroAI Marketplace Backend
+ * Nora AI Marketplace Backend
  * Routes for creating and fetching AI model and dataset listings.
  */
 

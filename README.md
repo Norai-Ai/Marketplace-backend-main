@@ -1,6 +1,6 @@
-# NuroAI Marketplace Backend
+# Nora AI Marketplace Backend
 
-This backend handles the core functionality for the NuroAI Marketplace, facilitating the trading and renting of AI models and datasets.
+This backend handles the core functionality for the Nora AI Marketplace, facilitating the trading and renting of AI models and datasets.
 
 ## Features
 
@@ -13,7 +13,7 @@ This backend handles the core functionality for the NuroAI Marketplace, facilita
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nuroai/marketplace-backend.git
+   git clone https://github.com/Nora AI/marketplace-backend.git
    cd marketplace-backend
    ```
 
@@ -25,7 +25,7 @@ This backend handles the core functionality for the NuroAI Marketplace, facilita
 3. Create a `.env` file:
    ```plaintext
    PORT=3000
-   MONGO_URI=mongodb://localhost:27017/nuroai-marketplace
+   MONGO_URI=mongodb://localhost:27017/Nora AI-marketplace
    BLOCKCHAIN_URL=https://mainnet-beta.solana.com
    ```
 

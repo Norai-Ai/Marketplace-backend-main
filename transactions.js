@@ -1,6 +1,6 @@
 /**
- * NuroAI Marketplace Backend
- * Routes for managing transactions on the NuroAI Marketplace.
+ * Nora AI Marketplace Backend
+ * Routes for managing transactions on the Nora AI Marketplace.
  */
 
 const express = require("express");

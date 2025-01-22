@@ -1,6 +1,6 @@
 /**
- * NuroAI Marketplace Backend
- * Backend service for managing listings, transactions, and user data in the NuroAI Marketplace.
+ * Nora AI Marketplace Backend
+ * Backend service for managing listings, transactions, and user data in the Nora AI Marketplace.
  */
 
 require("dotenv").config();
@@ -24,5 +24,5 @@ app.use("/api/transactions", transactionRoutes);
 // Start the server
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`NuroAI Marketplace Backend running on port ${PORT}`);
+  console.log(`Nora AI Marketplace Backend running on port ${PORT}`);
 });

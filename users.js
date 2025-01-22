@@ -1,5 +1,5 @@
 /**
- * NuroAI Marketplace Backend
+ * Nora AI Marketplace Backend
  * Routes for managing user registration and authentication.
  */
 

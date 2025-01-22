@@ -1,5 +1,5 @@
 /**
- * NuroAI Marketplace Backend
+ * Nora AI Marketplace Backend
  * Utility for connecting to the MongoDB database.
  */
 
@@ -11,7 +11,7 @@ async function connectToDatabase() {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     });
-    console.log("Connected to MongoDB for NuroAI Marketplace");
+    console.log("Connected to MongoDB for Nora AI Marketplace");
   } catch (error) {
     console.error("Error connecting to MongoDB:", error);
     process.exit(1);

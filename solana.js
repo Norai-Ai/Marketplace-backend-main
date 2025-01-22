@@ -1,5 +1,5 @@
 /**
- * NuroAI Marketplace Backend
+ * Nora AI Marketplace Backend
  * Utility for interacting with the Solana blockchain.
  */
 

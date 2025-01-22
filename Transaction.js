@@ -1,5 +1,5 @@
 /**
- * NuroAI Marketplace Backend
+ * Nora AI Marketplace Backend
  * Mongoose schema for storing transaction data.
  */
 
